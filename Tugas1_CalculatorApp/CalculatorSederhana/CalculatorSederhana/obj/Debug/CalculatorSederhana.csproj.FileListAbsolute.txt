@@ -1,0 +1,9 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\bin\Debug\CalculatorSederhana.exe.config
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.Form1.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.Properties.Resources.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.csproj.GenerateResource.Cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\bin\Debug\CalculatorSederhana.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\bin\Debug\CalculatorSederhana.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Tugas1_CalculatorApp\CalculatorSederhana\CalculatorSederhana\obj\Debug\CalculatorSederhana.pdb
