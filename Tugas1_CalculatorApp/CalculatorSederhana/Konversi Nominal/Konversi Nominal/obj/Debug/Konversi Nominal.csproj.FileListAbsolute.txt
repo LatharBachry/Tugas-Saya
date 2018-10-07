@@ -1,0 +1,11 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\bin\Debug\Konversi Nominal.exe.config
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\bin\Debug\Konversi Nominal.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\bin\Debug\Konversi Nominal.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\bin\Debug\KonversiLibrary.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\bin\Debug\KonversiLibrary.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi Nominal.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi_Nominal.Form1.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi_Nominal.Properties.Resources.resources
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi Nominal.csproj.GenerateResource.Cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi Nominal.exe
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\Konversi Nominal\obj\Debug\Konversi Nominal.pdb

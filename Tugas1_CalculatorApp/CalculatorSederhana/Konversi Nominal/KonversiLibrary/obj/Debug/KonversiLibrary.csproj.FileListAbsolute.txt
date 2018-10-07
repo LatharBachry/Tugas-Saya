@@ -1,0 +1,5 @@
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\KonversiLibrary\bin\Debug\KonversiLibrary.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\KonversiLibrary\bin\Debug\KonversiLibrary.pdb
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\KonversiLibrary\obj\Debug\KonversiLibrary.csprojResolveAssemblyReference.cache
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\KonversiLibrary\obj\Debug\KonversiLibrary.dll
+D:\PROGRAM\Semester 3\Pemrograman Lanjut\Belajar C#\Konversi Nominal\KonversiLibrary\obj\Debug\KonversiLibrary.pdb
